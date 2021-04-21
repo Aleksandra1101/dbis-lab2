@@ -1,4 +1,4 @@
-Александра Анфилова, [20.04.21 21:55]
+
 CREATE TABLE if not exists odata(
   OUTID  TEXT,
   Birth  VARCHAR,
